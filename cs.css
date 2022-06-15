@@ -1,0 +1,34 @@
+@charset "UTF-8";
+p{
+  color:green;
+  font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "Serif";
+  font-size: 16px;
+  line-height: 18px;
+  width: 600px;
+  background-color: antiquewhite;
+  padding:20px;
+}
+
+h1, h2{
+font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "Serif";
+color:black;
+}
+
+.pozadina{
+  background-image: url("slike/pozadina.jpg")
+}
+
+a:link {
+  color: white;
+  background-color: #339933;
+  padding: 5px;
+  line-height: 40px;
+  border: 1px solid #339933
+}
+a:hover
+{
+  background-color: #cc9900;
+}
+ img {
+height: 200px;
+ }
